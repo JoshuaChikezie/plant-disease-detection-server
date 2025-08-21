@@ -1,0 +1,21 @@
+{
+  "datasets": {
+    "maize": {
+      "diseases": {
+        "healthy": {
+          "image_count": 1859
+        },
+        "gray_leaf_spot": {
+          "image_count": 1642
+        },
+        "common_rust": {
+          "image_count": 1907
+        },
+        "northern_leaf_blight": {
+          "image_count": 1908
+        }
+      },
+      "total_images": 7316
+    }
+  }
+}
